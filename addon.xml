@@ -1,0 +1,13 @@
+<addon id="plugin.video.circleftp" name="CircleFTP Movies" version="1.0.0" provider-name="YourName">
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <requires>
+    <import addon="xbmc.python" version="2.26.0"/>
+  </requires>
+  <assets>
+    <icon>icon.png</icon>
+  </assets>
+  <summary>CircleFTP Kodi Addon</summary>
+  <description>Streams movies from CircleFTP.net</description>
+</addon>
