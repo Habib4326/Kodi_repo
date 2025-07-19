@@ -1,0 +1,969 @@
+<?xml version="1.0" ?>
+<movies>
+  <movie>
+    <title>12 Strong (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/12%20Strong%20%282018%29%201080p%20%5BDual%20Audio%5D/12%20Strong%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/12%20Strong%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/12%20Strong%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>7 Days in Entebbe (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/7%20Days%20in%20Entebbe%20%282018%29%201080p/7.Days.in.Entebbe.2018.1080p.BRRip.x264.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/7%20Days%20in%20Entebbe%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/7%20Days%20in%20Entebbe%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>A Private War (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Private%20War%20%282018%29%201080p/A.Private.War.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Private%20War%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Private%20War%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>A Quiet Place (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Quiet%20Place%20%282018%29%201080p%20%5BDual%20Audio%5D/A%20Quiet%20Place%20%282018%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Quiet%20Place%20%282018%29%201080p%20%5BDual%20Audio%5D/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Quiet%20Place%20%282018%29%201080p%20%5BDual%20Audio%5D/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>A Simple Favor (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Simple%20Favor%20%282018%29%201080p/A.Simple.Favor.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Simple%20Favor%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Simple%20Favor%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>A Star Is Born (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Star%20Is%20Born%20%282018%29%201080p/A%20Star%20Is%20Born%20%282018%29%201080p%20x265%20HEVC%2010bit%20AC3%205.1%20MSubs-SAMPA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Star%20Is%20Born%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Star%20Is%20Born%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>A Wrinkle in Time (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Wrinkle%20in%20Time%20%282018%29%201080p/A.Wrinkle.in.Time.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Wrinkle%20in%20Time%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/A%20Wrinkle%20in%20Time%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Accident Man (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Accident%20Man%20%282018%29%201080p/Accident.Man.2018.1080p.BRRip.6CH.1.9GB.MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Accident%20Man%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Accident%20Man%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Accident Man (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Accident%20Man%20%282018%29%201080p%20%5BDual%20Audio%5D/Accident%20Man%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Accident%20Man%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Accident%20Man%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Adrift (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Adrift%20%282018%29%201080p%20%5BDual%20Audio%5D/Adrift%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Adrift%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Adrift%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>All Is True (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/All%20Is%20True%20%282018%29%201080p/All.Is.True.2018.1080p.BRRip.x264.6CH-MkvCage.com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/All%20Is%20True%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/All%20Is%20True%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Alpha (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Alpha%20%282018%29%201080p/Alpha.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Alpha%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Alpha%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>American Animals (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/American%20Animals%20%282018%29%201080p/American.Animals.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/American%20Animals%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/American%20Animals%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>American Woman (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/American%20Woman%20%282018%29%201080p/American.Woman.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/American%20Woman%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/American%20Woman%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Annihilation (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Annihilation%20%282018%29%201080p/Annihilation.2018.1080p.BRRip.6CH.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Annihilation%20%282018%29%201080p/a0_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Annihilation%20%282018%29%201080p/a0_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ant-Man and the Wasp (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ant-Man%20and%20the%20Wasp%20%282018%29%201080p/Ant-Man%20and%20the%20Wasp%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%207.1%20MSubs-Tigole.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ant-Man%20and%20the%20Wasp%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ant-Man%20and%20the%20Wasp%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Apostle (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Apostle%20%282018%29%201080p%20NF/Apostle%20%282018%29%201080p%20NF-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Apostle%20%282018%29%201080p%20NF/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Apostle%20%282018%29%201080p%20NF/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Aquaman (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Aquaman%20%282018%29%201080p/Aquaman.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Aquaman%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Aquaman%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Arctic (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Arctic%20%282018%29%201080p/Arctic.2018.1080p.BRRip.264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Arctic%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Arctic%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>At Eternity's Gate (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/At%20Eternity%27s%20Gate%20%282018%29%201080p/At.Eternitys.Gate.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/At%20Eternity%27s%20Gate%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/At%20Eternity%27s%20Gate%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Avengers-Infinity War (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Avengers-Infinity%20War%20%282018%29%201080p/Avengers-Infinity%20War%20%282018%29%202160p%20BluRay%20x265%20HEVC%2010bit%20HDR%20AAC%207.1%20MSubs-Tigole.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Avengers-Infinity%20War%20%282018%29%201080p/a._V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Avengers-Infinity%20War%20%282018%29%201080p/a._V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bad Times at the El Royale (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p/Bad.Times.At.The.El.Royale.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bad Times at the El Royale (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p%20%5BDual%20Audio%5D/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bad%20Times%20at%20the%20El%20Royale%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Black '47 (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20%2747%20%282018%29%201080p/Black%2047%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20%2747%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20%2747%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Black Mirror-Bandersnatch (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20Mirror-Bandersnatch%20%282018%29%201080p%20NF/Black%20Mirror%20Bandersnatch%20%282018%29%201080p%20NF-WEB%20x264%20AAC%205.1%20MSubs-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20Mirror-Bandersnatch%20%282018%29%201080p%20NF/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20Mirror-Bandersnatch%20%282018%29%201080p%20NF/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Black Panther (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20Panther%20%282018%29%201080p/Black%20Panther%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%207.1%20MSubs-Prof.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20Panther%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Black%20Panther%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>BlacKkKlansman (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/BlacKkKlansman%20%282018%29%201080p/BlacKkKlansman.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/BlacKkKlansman%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/BlacKkKlansman%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Blockers (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Blockers%20%282018%29%201080p/Blockers.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Blockers%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Blockers%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bloodline (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bloodline%20%282018%29%201080p/Bloodline.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bloodline%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bloodline%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bohemian Rhapsody (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bohemian%20Rhapsody%20%282018%29%201080p/Bohemian.Rhapsody.2018.1080p.BluRay.AC3.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bohemian%20Rhapsody%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bohemian%20Rhapsody%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Boy Erased (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Boy%20Erased%20%282018%29%201080p/Boy.Erased.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Boy%20Erased%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Boy%20Erased%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Braven (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Braven%20%282018%29%201080p/Braven.2018.1080p.BRRip.6CH.MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Braven%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Braven%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bumblebee (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bumblebee%20%282018%29%201080p/Bumblebee.2018.1080p.BluRay.x264-MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bumblebee%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Bumblebee%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Can You Ever Forgive Me (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Can%20You%20Ever%20Forgive%20Me%20%282018%29%201080p/Can.You.Ever.Forgive.Me.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Can%20You%20Ever%20Forgive%20Me%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Can%20You%20Ever%20Forgive%20Me%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Christopher Robin (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Christopher%20Robin%20%282018%29%201080p/Christopher.Robin.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Christopher%20Robin%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Christopher%20Robin%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>City of Lies (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/City%20of%20Lies%20%282018%29%201080p%20%5BDual%20Audio%5D/City%20of%20Lies%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/City%20of%20Lies%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/City%20of%20Lies%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Crazy Rich Asians (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Crazy%20Rich%20Asians%20%282018%29%201080p%20%5BDual%20Audio%5D/Crazy%20Rich%20Asians%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Crazy%20Rich%20Asians%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Crazy%20Rich%20Asians%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Creed II (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Creed%20II%20%282018%29%201080p/Creed.II.2018.1080p.BluRay.AC3.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Creed%20II%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Creed%20II%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Deadpool 2 (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Deadpool%202%20%282018%29%201080p%20%5BDual%20Audio%5D/Deadpool%202%20%282018%29%20Super%20Duper%20Cut%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Deadpool%202%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Deadpool%202%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Death Wish (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Death%20Wish%20%282018%29%201080p/Death.Wish.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Death%20Wish%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Death%20Wish%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Den of Thieves (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Den%20of%20Thieves%20%282018%29%201080p/Den.Of.Thieves.2018.UNRATED.1080p.BRRip.6CH.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Den%20of%20Thieves%20%282018%29%201080p/a._V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Den%20of%20Thieves%20%282018%29%201080p/a._V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Destroyer (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Destroyer%20%282018%29%201080p/Destroyer.2018.1080p.BluRay.10bit.HEVC.6CH-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Destroyer%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Destroyer%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Don't Worry, He Won't Get Far on Foot (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Don%27t%20Worry%2C%20He%20Won%27t%20Get%20Far%20on%20Foot%20%282018%29%201080p/Dont.Worry.He.Wont.Get.Far.On.Foot.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Don%27t%20Worry%2C%20He%20Won%27t%20Get%20Far%20on%20Foot%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Don%27t%20Worry%2C%20He%20Won%27t%20Get%20Far%20on%20Foot%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Dragged Across Concrete (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Dragged%20Across%20Concrete%20%282018%29%201080p/Dragged%20Across%20Concrete%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20DTS%205.1%20MSubs-SAMPA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Dragged%20Across%20Concrete%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Dragged%20Across%20Concrete%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Driven (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Driven%20%282018%29%201080p/Driven%20%282018%29%201080p%20BluRay%20x264%206CH%20ESub%20-%20MkvHub.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Driven%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Driven%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Elizabeth Harvest (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Elizabeth%20Harvest%20%282018%29%201080p/Elizabeth.Harvest.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Elizabeth%20Harvest%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Elizabeth%20Harvest%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Escape Plan 2-Hades (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Escape%20Plan%202-Hades%20%282018%29%201080p/Escape.Plan.2.Hades.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Escape%20Plan%202-Hades%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Escape%20Plan%202-Hades%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Extinction (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Extinction%20%282018%29%201080p%20NF/Extinction.2018.1080p.NF.WEB-DL.x264.DD5.1.MSubs-NTG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Extinction%20%282018%29%201080p%20NF/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Extinction%20%282018%29%201080p%20NF/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Fantastic Beasts-The Crimes of Grindelwald (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Fantastic%20Beasts-The%20Crimes%20of%20Grindelwald%20%282018%29%201080p/Fantastic.Beasts.The.Crimes.Of.Grindelwald.2018.EXTENDED.10800p.BRRip.x264-MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Fantastic%20Beasts-The%20Crimes%20of%20Grindelwald%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Fantastic%20Beasts-The%20Crimes%20of%20Grindelwald%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Fifty Shades Freed (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Fifty%20Shades%20Freed%20%282018%29%201080p/Fifty.Shades.Freed.2018.UNRATED.1080p.BRRip.6CH.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Fifty%20Shades%20Freed%20%282018%29%201080p/a0_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Fifty%20Shades%20Freed%20%282018%29%201080p/a0_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>First Man (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/First%20Man%202018%201080p/First.Man.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/First%20Man%202018%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/First%20Man%202018%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Freaks (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Freaks%20%282018%29%201080p/Freaks.2018.1080p.BluRay.x264.DD5.1.ESub-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Freaks%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Freaks%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Game Night (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Game%20Night%20%282018%29%201080p/Game.Night.2018.1080p.BRRip.6CH.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Game%20Night%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Game%20Night%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Gloria Bell (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Gloria%20Bell%20%282018%29%201080p/Gloria.Bell.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Gloria%20Bell%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Gloria%20Bell%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Goosebumps 2-Haunted Halloween (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Goosebumps%202-Haunted%20Halloween%20%282018%29%201080p/Goosebumps.2.Haunted.Halloween.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Goosebumps%202-Haunted%20Halloween%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Goosebumps%202-Haunted%20Halloween%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Green Book (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Green%20Book%20%282018%29%201080p/Green.Book.2018.1080p.BluRay.AC3.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Green%20Book%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Green%20Book%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Greta (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Greta%20%282018%29%201080p/Greta.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Greta%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Greta%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Gringo (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Gringo%20%282018%29%201080p/Gringo.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Gringo%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Gringo%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Halloween (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Halloween%20%282018%29%201080p/Halloween.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Halloween%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Halloween%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Hereditary (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hereditary%20%282018%29%201080p/Hereditary.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hereditary%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hereditary%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>High Life (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/High%20Life%20%282018%29%201080p/High.Life.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/High%20Life%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/High%20Life%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Hotel Artemis (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hotel%20Artemis%20%282018%29%201080p/Hotel.Artemis.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hotel%20Artemis%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hotel%20Artemis%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Hotel Mumbai (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hotel%20Mumbai%20%282018%29%201080p/Hotel.Mumbai.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hotel%20Mumbai%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hotel%20Mumbai%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Hunter Killer (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hunter%20Killer%20%282018%29%201080p/Hunter.Killer.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hunter%20Killer%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Hunter%20Killer%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>I Can Only Imagine (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/I%20Can%20Only%20Imagine%20%282018%29%201080p/I.Can.Only.Imagine.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/I%20Can%20Only%20Imagine%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/I%20Can%20Only%20Imagine%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>If Beale Street Could Talk (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/If%20Beale%20Street%20Could%20Talk%20%282018%29%201080p/If.Beale.Street.Could.Talk.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/If%20Beale%20Street%20Could%20Talk%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/If%20Beale%20Street%20Could%20Talk%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Insidious-The Last Key (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Insidious-The%20Last%20Key%20%282018%29%201080p/Insidious.The.Last.Key.2018.1080p.BRRip.6CH.1.9GB.MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Insidious-The%20Last%20Key%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Insidious-The%20Last%20Key%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Instant Family (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Instant%20Family%20%282018%29%201080p/Instant.Family.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Instant%20Family%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Instant%20Family%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Instant Family (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Instant%20Family%20%282018%29%201080p%20%5BDual%20Audio%5D/Instant%20Family%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Instant%20Family%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Instant%20Family%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Johnny English Strikes Again (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Johnny%20English%20Strikes%20Again%20%282018%29%201080p/Johnny.English.Strikes.Again.2018.1080p.BluRay.AC3.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Johnny%20English%20Strikes%20Again%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Johnny%20English%20Strikes%20Again%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Jurassic World-Fallen Kingdom (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Jurassic%20World-Fallen%20Kingdom%20%282018%29%201080p/Jurassic.World.Fallen.Kingdom.2018.1080p.BluRay.AC3.x264.MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Jurassic%20World-Fallen%20Kingdom%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Jurassic%20World-Fallen%20Kingdom%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Kickboxer-Retaliation (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kickboxer-Retaliation%20%282018%29%201080p/Kickboxer.Retaliation.2018.1080p.BRRip.6CH.2GB.MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kickboxer-Retaliation%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kickboxer-Retaliation%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Kin (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kin%20%282018%29%201080p/Kin.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kin%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kin%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Kursk (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kursk%20%282018%29%201080p/Kursk.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kursk%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Kursk%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Love, Simon (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Love%2C%20Simon%20%282018%29%201080p/Love.Simon.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Love%2C%20Simon%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Love%2C%20Simon%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mamma Mia! Here We Go Again (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mamma%20Mia%21%20Here%20We%20Go%20Again%20%282018%29%201080p/Mamma.Mia.Here.We.Go.Again.2018.1080p.BRRip.6CH.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mamma%20Mia%21%20Here%20We%20Go%20Again%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mamma%20Mia%21%20Here%20We%20Go%20Again%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mandy (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mandy%20%282018%29%201080p%20%5BDual%20Audio%5D/Mandy%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mandy%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mandy%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mary Poppins Returns (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mary%20Poppins%20Returns%20%282018%29%201080p/Mary.Poppins.Returns.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mary%20Poppins%20Returns%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mary%20Poppins%20Returns%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mary Queen of Scots (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mary%20Queen%20of%20Scots%20%282018%29%201080p/Mary.Queen.of.Scots.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mary%20Queen%20of%20Scots%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mary%20Queen%20of%20Scots%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Maze Runner-The Death Cure (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Maze%20Runner-The%20Death%20Cure%20%282018%29%201080p/Maze.Runner.The.Death.Cure.2018.1080p.BluRay.AC3.6CH.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Maze%20Runner-The%20Death%20Cure%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Maze%20Runner-The%20Death%20Cure%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Maze Runner-The Death Cure (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Maze%20Runner-The%20Death%20Cure%20%282018%29%201080p%20%5BDual%20Audio%5D/Maze%20Runner%20The%20Death%20Cure%20%282018%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Maze%20Runner-The%20Death%20Cure%20%282018%29%201080p%20%5BDual%20Audio%5D/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Maze%20Runner-The%20Death%20Cure%20%282018%29%201080p%20%5BDual%20Audio%5D/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mid90s (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mid90s%20%282018%29%201080p/Mid90s.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mid90s%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mid90s%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mile 22 (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mile%2022%20%282018%29%201080p/Mile.22.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mile%2022%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mile%2022%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mission-Impossible - Fallout (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mission-Impossible%20-%20Fallout%20%282018%29%201080p/Mission.Impossible.Fallout.2018.IMAX.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mission-Impossible%20-%20Fallout%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mission-Impossible%20-%20Fallout%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mortal Engines (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mortal%20Engines%20%282018%29%201080p/Mortal.Engines.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mortal%20Engines%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Mortal%20Engines%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Night Hunter (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Night%20Hunter%20%282018%29%201080p%20%5BDual%20Audio%5D/Night%20Hunter%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Night%20Hunter%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Night%20Hunter%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Night School (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Night%20School%20%282018%29%201080p/Night.School.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Night%20School%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Night%20School%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ocean's 8 (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ocean%27s%208%20%282018%29%201080p/Oceans.Eight.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ocean%27s%208%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ocean%27s%208%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>One Must Fall (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/One%20Must%20Fall%20%282018%29%201080p/One.Must.Fall.2018.1080p.BluRay.x264.DD5.1.ESub-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/One%20Must%20Fall%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/One%20Must%20Fall%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ophelia (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ophelia%20%282018%29%201080p/Ophelia.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ophelia%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ophelia%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Overlord (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Overlord%20%282018%29%201080p/Overlord.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Overlord%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Overlord%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Overlord (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Overlord%20%282018%29%201080p%20%5BDual%20Audio%5D/Overlord%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Overlord%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Overlord%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Pacific Rim-Uprising (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Pacific%20Rim-Uprising%20%282018%29%201080p/Pacific.Rim.Uprising.2018.1080p.BRRip.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Pacific%20Rim-Uprising%20%282018%29%201080p/a._V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Pacific%20Rim-Uprising%20%282018%29%201080p/a._V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Peppermint (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Peppermint%20%282018%29%201080p/Peppermint.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Peppermint%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Peppermint%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Prospect (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Prospect%20%282018%29%201080p/Prospect.2018.1080p.BluRay.x264.AC3-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Prospect%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Prospect%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Rampage (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Rampage%20%282018%29%201080p/Rampage.2018.1080p.BluRay.AC3.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Rampage%20%282018%29%201080p/a0_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Rampage%20%282018%29%201080p/a0_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ready Player One (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ready%20Player%20One%20%282018%29%201080p%20%5BDual%20Audio%5D/Ready%20Player%20One%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ready%20Player%20One%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Ready%20Player%20One%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Red Sparrow (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Red%20Sparrow%20%282018%29%201080p/Red.Sparrow.2018.1080p.BRRip.6CH.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Red%20Sparrow%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Red%20Sparrow%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Replicas (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Replicas%20%282018%29%201080p/Replicas.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Replicas%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Replicas%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Robin Hood (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Robin%20Hood%20%282018%29%201080p/Robin.Hood.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Robin%20Hood%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Robin%20Hood%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Samson (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Samson%20%282018%29%201080p/Samson.2018.1080p.BRRip.6CH.2GB.MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Samson%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Samson%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Searching (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Searching%20%282018%29%201080p/Searching%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AC3%205.1%20MSubs-r0b0t.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Searching%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Searching%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Second Act (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Second%20Act%20%282018%29%201080p/Second.Act.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Second%20Act%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Second%20Act%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Sicario-Day of the Soldado (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Sicario-Day%20of%20the%20Soldado%20%282018%29%201080p/Sicario.Day.Of.The.Soldado.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Sicario-Day%20of%20the%20Soldado%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Sicario-Day%20of%20the%20Soldado%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Skyscraper (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Skyscraper%20%282018%29%201080p/Hon3yHD.net%20-%20Skyscraper.2018.1080p.BluRay.x264.DTS.-.Hon3yHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Skyscraper%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Skyscraper%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Slaughterhouse Rulez (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Slaughterhouse%20Rulez%20%282018%29%201080p/Slaughterhouse.Rulez.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Slaughterhouse%20Rulez%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Slaughterhouse%20Rulez%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Slender Man (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Slender%20Man%20%282018%29%201080p/Slender.Man.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Slender%20Man%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Slender%20Man%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Solo-A Star Wars Story (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Solo-A%20Star%20Wars%20Story%20%282018%29%201080p/Solo.A.Star.Wars.Story.2018.1080p.BluRay.AC3.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Solo-A%20Star%20Wars%20Story%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Solo-A%20Star%20Wars%20Story%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Sorry to Bother You (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Sorry%20to%20Bother%20You%20%282018%29%201080p/Sorry.to.Bother.You.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Sorry%20to%20Bother%20You%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Sorry%20to%20Bother%20You%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Stan &amp; Ollie (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Stan%20%26%20Ollie%20%282018%29%201080p/Stan.and.Ollie.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Stan%20%26%20Ollie%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Stan%20%26%20Ollie%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Stockholm (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Stockholm%20%282018%29%201080p/Stockholm%20%282018%29%201080p%20BluRay%20x264%206CH%20-%20MkvHub.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Stockholm%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Stockholm%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Super Troopers 2 (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Super%20Troopers%202%20%282018%29%201080p/Super.Troopers.2.2018.1080p.BRRip.x264-MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Super%20Troopers%202%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Super%20Troopers%202%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Suspiria (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Suspiria%20%282018%29%201080p/Suspiria%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%207.1%20MSubs-Tigole.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Suspiria%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Suspiria%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Tag (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tag%20%282018%29%201080p/Tag.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tag%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tag%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Teen Spirit (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Teen%20Spirit%20%282018%29%201080p/Teen.Spirit.2018.1080p.BRRip.x264-MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Teen%20Spirit%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Teen%20Spirit%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Ballad of Buster Scruggs (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Ballad%20of%20Buster%20Scruggs%20%282018%29%201080p%20NF/The%20Ballad%20of%20Buster%20Scruggs%20%282018%29%201080p%20NF-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Ballad%20of%20Buster%20Scruggs%20%282018%29%201080p%20NF/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Ballad%20of%20Buster%20Scruggs%20%282018%29%201080p%20NF/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Bouncer (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Bouncer%20%282018%29%201080p/The.Bouncer.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Bouncer%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Bouncer%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Catcher Was a Spy (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Catcher%20Was%20a%20Spy%20%282018%29%201080p/The.Catcher.Was.a.Spy.2018.1080p.Bluray.1400MB.DD5.1.x264-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Catcher%20Was%20a%20Spy%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Catcher%20Was%20a%20Spy%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Clovehitch Killer (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Clovehitch%20Killer%20%282018%29%201080p/The.Clovehitch.Killer.2018.1080p.BluRay.x264.AAC.5.1.ESub-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Clovehitch%20Killer%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Clovehitch%20Killer%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Commuter (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Commuter%20%282018%29%201080p/The.Commuter.2018.1080p.BRRip.6CH.2GB.MkvCage.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Commuter%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Commuter%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Dead Center (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Dead%20Center%20%282018%29%201080p/The.Dead.Center.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Dead%20Center%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Dead%20Center%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Equalizer 2 (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Equalizer%202%20%282018%29%201080p/The.Equalizer.2.2018.1080p.BluRay.6CH.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Equalizer%202%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Equalizer%202%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Favourite (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Favourite%20%282018%29%201080p/The.Favourite.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Favourite%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Favourite%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The First Purge (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20First%20Purge%20%282018%29%201080p/The.First.Purge.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20First%20Purge%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20First%20Purge%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Front Runner (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Front%20Runner%20%282018%29%201080p/The.Front.Runner.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Front%20Runner%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Front%20Runner%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Girl in the Spider's Web (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Girl%20in%20the%20Spider%27s%20Web%20%282018%29%201080p%20%5BDual%20Audio%5D/The%20Girl%20in%20the%20Spiders%20Web%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Girl%20in%20the%20Spider%27s%20Web%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Girl%20in%20the%20Spider%27s%20Web%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Happytime Murders (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Happytime%20Murders%20%282018%29%201080p/The.Happytime.Murders.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Happytime%20Murders%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Happytime%20Murders%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Hate U Give (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hate%20U%20Give%20%282018%29%201080p/The.Hate.U.Give.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hate%20U%20Give%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hate%20U%20Give%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The House That Jack Built (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20House%20That%20Jack%20Built%20%282018%29%201080p/The.House.That.Jack.Built.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20House%20That%20Jack%20Built%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20House%20That%20Jack%20Built%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The House with a Clock in Its Walls (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20House%20with%20a%20Clock%20in%20Its%20Walls%20%282018%29%201080p/The.House.with.a.Clock.in.Its.Walls.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20House%20with%20a%20Clock%20in%20Its%20Walls%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20House%20with%20a%20Clock%20in%20Its%20Walls%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Hummingbird Project (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hummingbird%20Project%20%282018%29%201080p/The.Hummingbird.Project.2018.1080p.BRRip.x264-MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hummingbird%20Project%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hummingbird%20Project%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Hurricane Heist (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hurricane%20Heist%20%282018%29%201080p/The.Hurricane.Heist.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hurricane%20Heist%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Hurricane%20Heist%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Keeper (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Keeper%20%282018%29%201080p/The.Keeper.2018.1080p.BluRay.1400MB.DD5.1.x264-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Keeper%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Keeper%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Man Who Killed Don Quixote (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Man%20Who%20Killed%20Don%20Quixote%20%282018%29%201080p/The.Man.Who.Killed.Don.Quixote.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Man%20Who%20Killed%20Don%20Quixote%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Man%20Who%20Killed%20Don%20Quixote%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Meg (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Meg%20%282018%29%201080p%20%5BDual%20Audio%5D/The%20Meg%20%282018%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Meg%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Meg%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Mule (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Mule%20%282018%29%201080p/The.Mule.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Mule%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Mule%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Nightingale (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nightingale%20%282018%29%201080p/The.Nightingale.2018.1080p.BluRay.x264.DD5.1.ESub-GalaxyRG.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nightingale%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nightingale%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Nun (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nun%20%282018%29%201080p/The.Nun.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nun%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nun%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Nutcracker and the Four Realms (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nutcracker%20and%20the%20Four%20Realms%20%282018%29%201080p/The.Nutcracker.And.The.Four.Realms.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nutcracker%20and%20the%20Four%20Realms%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Nutcracker%20and%20the%20Four%20Realms%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Old Man &amp; the Gun (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Old%20Man%20%26%20the%20Gun%20%282018%29%201080p/The.Old.Man.And.The.Gun.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Old%20Man%20%26%20the%20Gun%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Old%20Man%20%26%20the%20Gun%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Possession of Hannah Grace (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/The.Possession.of.Hannah.Grace.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Possession%20of%20Hannah%20Grace%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Predator (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Predator%20%282018%29%201080p/The.Predator.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Predator%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Predator%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Professor (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Professor%20%282018%29%201080p/The.Professor.2018.1080p.BRRip.x264-MkvCage.Com.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Professor%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Professor%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Sisters Brothers (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Sisters%20Brothers%20%282018%29%201080p/The.Sisters.Brothers.2018.1080p.BluRay.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Sisters%20Brothers%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Sisters%20Brothers%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Spy Who Dumped Me (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Spy%20Who%20Dumped%20Me%20%282018%29%201080p/The.Spy.Who.Dumped.Me.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Spy%20Who%20Dumped%20Me%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Spy%20Who%20Dumped%20Me%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Standoff at Sparrow Creek (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Standoff%20at%20Sparrow%20Creek%20%282018%29%201080p/The%20Standoff%20at%20Sparrow%20Creek%20%282018%29%201080p%20BluRay%20x265%20HEVC%20DTS%205.1%20MSubs-SAMPA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Standoff%20at%20Sparrow%20Creek%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Standoff%20at%20Sparrow%20Creek%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Wind (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Wind%20%282018%29%201080p/The.Wind.2018.1080p.BluRay.x264-%5BYTS.LT%5D.mp4</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Wind%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/The%20Wind%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Tomb Raider (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tomb%20Raider%20%282018%29%201080p/Tomb.Raider.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tomb%20Raider%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tomb%20Raider%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Traffik (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Traffik%20%282018%29%201080p/Traffik.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Traffik%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Traffik%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Truth or Dare (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Truth%20or%20Dare%20%282018%29%201080p%20%5BDual%20Audio%5D/Truth%20or%20Dare%20%282018%29%20EXTENDED%20DC%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-OlaM.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Truth%20or%20Dare%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Truth%20or%20Dare%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Tully (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tully%20%282018%29%201080p/Tully.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tully%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Tully%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Unsane (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Unsane%20%282018%29%201080p/Unsane.2018.1080p.BRRip.6CH.MkvCage.WS.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Unsane%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Unsane%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Upgrade (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Upgrade%20%282018%29%201080p/Upgrade.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Upgrade%20%282018%29%201080p/a_V1_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Upgrade%20%282018%29%201080p/a_V1_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Venom (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Venom%20%282018%29%201080p%20%5BDual%20Audio%5D/Venom%20%282018%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%207.1%5D%20-OlaM.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Venom%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Venom%20%282018%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Vice (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Vice%20%282018%29%201080p/Vice.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Vice%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Vice%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Vox Lux (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Vox%20Lux%20%282018%29%201080p/Vox.Lux.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Vox%20Lux%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Vox%20Lux%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Welcome to Marwen (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Welcome%20to%20Marwen%20%282018%29%201080p/Welcome.to.Marwen.2018.1080p.BRRip.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Welcome%20to%20Marwen%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Welcome%20to%20Marwen%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>White Boy Rick (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/White%20Boy%20Rick%20%282018%29%201080p/White.Boy.Rick.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/White%20Boy%20Rick%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/White%20Boy%20Rick%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Widows (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Widows%20%282018%29%201080p/Widows.2018.1080p.BRRip.x264.MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Widows%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Widows%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Wildlife (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Wildlife%20%282018%29%201080p/Wildlife.2018.1080p.BluRay.x264-MkvCage.ws.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Wildlife%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Wildlife%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Winchester (2018)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Winchester%20%282018%29%201080p/Winchester%20%282018%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-Tigole.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Winchester%20%282018%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282018%29%201080p/Winchester%20%282018%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+</movies>
