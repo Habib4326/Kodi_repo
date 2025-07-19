@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<root>
+     <category>
+       <title>2025</title>
+       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/English-Movies/English-Movies-2025.xml</link>
+       <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
+       <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
+     </category>
+     <category>
+       <title>2024</title>
+       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/English-Movies/English-Movies-2024.xml</link>
+       <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
+       <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
+     </category>
+     <category>
+       <title>2023</title>
+       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/English-Movies/English-Movies-2023.xml</link>
+       <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
+       <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
+     </category>
+     <category>
+       <title>2022</title>
+       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/English-Movies/English-Movies-2022.xml</link>
+       <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
+       <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
+     </category>
+</root>
