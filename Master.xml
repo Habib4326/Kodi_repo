@@ -1,20 +1,8 @@
 <?xml version="1.0" ?>
 <items>
      <item>
-       <title>English Movies</title>
-       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/Movie-Murge-English.xml</link>
-       <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
-       <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
-     </item>
-     <item>
-       <title>Hindi Movies</title>
-       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/Movie-Murge-Hindi.xml</link>
-       <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
-       <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
-     </item>
-     <item>
-       <title>Hindi Dubbed</title>
-       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/Movie-Murge-Dubbed.xml</link>
+       <title>FTPMEDIA.NET</title>
+       <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/Ftpmedia.net.xml</link>
        <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
        <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
      </item>
