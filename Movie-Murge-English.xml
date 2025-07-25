@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<items>
+<categories>
      <category>
        <title>2025</title>
        <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/English-Movies/English-Movies-2025.xml</link>
@@ -180,4 +180,4 @@
        <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
        <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
      </category>
-</items>
+</categories>
