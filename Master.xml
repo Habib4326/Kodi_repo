@@ -1,13 +1,13 @@
 <?xml version="1.0" ?>
 <items>
      <item>
-       <title>FTPMEDIA.NET</title>
+       <title>Ftpmedia Movies</title>
        <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/Ftpmedia.net.xml</link>
        <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
        <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
      </item>
      <item>
-       <title>Dhakaflix</title>
+       <title>Dhakaflix Movies</title>
        <link>https://raw.githubusercontent.com/Habib4326/Kodi_repo/main/Dhakaflix.xml</link>
        <thumbnail>https://i.ibb.co/fdjy1L6L/icon.png</thumbnail>
        <fanart>https://i.ibb.co/Q7w6QVkV/fanart-4.jpg</fanart>
