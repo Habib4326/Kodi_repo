@@ -1,6 +1,24 @@
 <?xml version="1.0" ?>
 <movies>
   <movie>
+    <title>28 Years Later (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/28%20Years%20Later%20%282025%29%201080p%20%5BDual%20Audio%5D/28%20Years%20Later%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/28%20Years%20Later%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/28%20Years%20Later%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>28 Years Later (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/28%20Years%20Later%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/28%20Years%20Later%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/28%20Years%20Later%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/28%20Years%20Later%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>A Minecraft Movie (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Minecraft%20Movie%20%282025%29%201080p%20%5BDual%20Audio%5D/A%20Minecraft%20Movie%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Minecraft%20Movie%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Minecraft%20Movie%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>A Minecraft Movie (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Minecraft%20Movie%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/A%20Minecraft%20Movie%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/A%20Minecraft%20Movie%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
@@ -37,6 +55,18 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Back%20in%20Action%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Ballerina (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ballerina%20%282025%29%201080p%20%5BDual%20Audio%5D/Ballerina%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ballerina%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ballerina%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ballerina (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ballerina%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Ballerina%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ballerina%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ballerina%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Black Bag (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Black%20Bag%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Black%20Bag%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Black%20Bag%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
@@ -47,6 +77,18 @@
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bridget%20Jones-Mad%20About%20the%20Boy%20%282025%29%201080p%20PCOK/Bridget%20Jones%20Mad%20About%20the%20Boy%20%282025%29%201080p%20PCOK-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bridget%20Jones-Mad%20About%20the%20Boy%20%282025%29%201080p%20PCOK/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bridget%20Jones-Mad%20About%20the%20Boy%20%282025%29%201080p%20PCOK/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bring Her Back (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bring%20Her%20Back%20%282025%29%201080p%20%5BDual%20Audio%5D/Bring%20Her%20Back%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bring%20Her%20Back%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bring%20Her%20Back%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bring Her Back (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bring%20Her%20Back%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Bring%20Her%20Back%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bring%20Her%20Back%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Bring%20Her%20Back%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Captain America-Brave New World (2025)</title>
@@ -61,10 +103,22 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Captain%20America-Brave%20New%20World%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Caught Stealing (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Caught%20Stealing%20%282025%29%201080p%20AMZN/Caught%20Stealing%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Caught%20Stealing%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Caught%20Stealing%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Cleaner (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Cleaner%20%282025%29%201080p%20AMZN/Cleaner%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Cleaner%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Cleaner%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Cleaner (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Cleaner%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Cleaner%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Cleaner%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Cleaner%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Clown in a Cornfield (2025)</title>
@@ -74,7 +128,7 @@
   </movie>
   <movie>
     <title>Companion (2025)</title>
-    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Companion%20%282025%29%201080p%20AMZN/Companion%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Companion%20%282025%29%201080p%20AMZN/Companion%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Companion%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Companion%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
   </movie>
@@ -83,6 +137,18 @@
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Control%20Freak%20%282025%29%201080p%20DSNP/Control%20Freak%20%282025%29%201080p%20DSNP-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Control%20Freak%20%282025%29%201080p%20DSNP/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Control%20Freak%20%282025%29%201080p%20DSNP/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Dangerous Animals (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Dangerous%20Animals%20%282025%29%201080p%20%5BDual%20Audio%5D/Dangerous%20Animals%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Dangerous%20Animals%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Dangerous%20Animals%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Dangerous Animals (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Dangerous%20Animals%20%282025%29%201080p%20AMZN/Dangerous%20Animals%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Dangerous%20Animals%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Dangerous%20Animals%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Death of a Unicorn (2025)</title>
@@ -103,16 +169,46 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Den%20of%20Thieves%202-Pantera%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Downton Abbey-The Grand Finale (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Downton%20Abbey-The%20Grand%20Finale%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Downton%20Abbey%20The%20Grand%20Finale%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Downton%20Abbey-The%20Grand%20Finale%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Downton%20Abbey-The%20Grand%20Finale%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Drop (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Drop%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Drop%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Eddington (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Eddington%20%282025%29%201080p%20AMZN/Eddington%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Eddington%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Eddington%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Eenie Meanie (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Eenie%20Meanie%20%282025%29%201080p%20DSNP/Eenie%20Meanie%20%282025%29%201080p%20DSNP-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Eenie%20Meanie%20%282025%29%201080p%20DSNP/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Eenie%20Meanie%20%282025%29%201080p%20DSNP/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>F1-The Movie (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/F1-The%20Movie%20%282025%29%201080p%20%5BDual%20Audio%5D/F1%20The%20Movie%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/F1-The%20Movie%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/F1-The%20Movie%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Fear Street-Prom Queen (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Fear%20Street-Prom%20Queen%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/Fear%20Street%20Prom%20Queen%20%282025%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Fear%20Street-Prom%20Queen%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Fear%20Street-Prom%20Queen%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Final Destination Bloodlines (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Final%20Destination%20Bloodlines%20%282025%29%201080p%20%5BDual%20Audio%5D/Final%20Destination%20Bloodlines%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Final%20Destination%20Bloodlines%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Final%20Destination%20Bloodlines%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Flight Risk (2025)</title>
@@ -133,10 +229,28 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Fountain%20of%20Youth%20%282025%29%201080p%20ATVP/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Hallow Road (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Hallow%20Road%20%282025%29%201080p%20AMZN/Hallow%20Road%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205%201%20MSubs-BONE.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Hallow%20Road%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Hallow%20Road%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Happy Gilmore 2 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Happy%20Gilmore%202%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/Happy%20Gilmore%202%20%282025%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Happy%20Gilmore%202%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Happy%20Gilmore%202%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Havoc (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Havoc%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/Havoc%20%282025%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Havoc%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Havoc%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Heads of State (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Heads%20of%20State%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Heads%20of%20State%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Heads%20of%20State%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Heads%20of%20State%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Heart Eyes (2025)</title>
@@ -151,10 +265,70 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Heart%20Eyes%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Highest 2 Lowest (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Highest%202%20Lowest%20%282025%29%201080p%20ATVP/Highest%202%20Lowest%20%282025%29%201080p%20ATVP-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Highest%202%20Lowest%20%282025%29%201080p%20ATVP/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Highest%202%20Lowest%20%282025%29%201080p%20ATVP/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Honey Don't! (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Honey%20Don%27t%21%20%282025%29%201080p%20iT/Honey%20Dont%20%282025%29%201080p%20iT-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-BONE.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Honey%20Don%27t%21%20%282025%29%201080p%20iT/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Honey%20Don%27t%21%20%282025%29%201080p%20iT/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>How to Train Your Dragon (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/How%20to%20Train%20Your%20Dragon%20%282025%29%20IMAX%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>How to Train Your Dragon (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/How%20to%20Train%20Your%20Dragon%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>I Know What You Did Last Summer (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/I%20Know%20What%20You%20Did%20Last%20Summer%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/I%20Know%20What%20You%20Did%20Last%20Summer%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/I%20Know%20What%20You%20Did%20Last%20Summer%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/I%20Know%20What%20You%20Did%20Last%20Summer%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ice Road-Vengeance (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ice%20Road-Vengeance%20%282025%29%201080p%20AMZN/Ice%20Road%20Vengeance%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ice%20Road-Vengeance%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ice%20Road-Vengeance%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ice Road-Vengeance (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ice%20Road-Vengeance%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Ice%20Road%20Vengeance%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ice%20Road-Vengeance%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Ice%20Road-Vengeance%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>In the Lost Lands (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/In%20the%20Lost%20Lands%20%282025%29%201080p%20%5BDual%20Audio%5D/In%20the%20Lost%20Lands%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/In%20the%20Lost%20Lands%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/In%20the%20Lost%20Lands%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>In the Lost Lands (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/In%20the%20Lost%20Lands%20%282025%29%201080p%20AMZN/In%20the%20Lost%20Lands%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/In%20the%20Lost%20Lands%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/In%20the%20Lost%20Lands%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Jurassic World-Rebirth (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Jurassic%20World-Rebirth%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Jurassic%20World%20Rebirth%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Jurassic%20World-Rebirth%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Jurassic%20World-Rebirth%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Karate Kid-Legends (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Karate%20Kid-Legends%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Karate%20Kid%20Legends%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Karate%20Kid-Legends%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Karate%20Kid-Legends%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Kinda Pregnant (2025)</title>
@@ -175,10 +349,34 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Last%20Breath%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Lilo &amp; Stitch (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Lilo%20%26%20Stitch%20%282025%29%201080p%20%5BDual%20Audio%5D/Lilo%20and%20Stitch%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Lilo%20%26%20Stitch%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Lilo%20%26%20Stitch%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Lilo &amp; Stitch (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Lilo%20%26%20Stitch%20%282025%29%201080p%20DSNP/Lilo%20and%20Stitch%20%282025%29%201080p%20DSNP-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Lilo%20%26%20Stitch%20%282025%29%201080p%20DSNP/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Lilo%20%26%20Stitch%20%282025%29%201080p%20DSNP/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Locked (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Locked%20%282025%29%201080p%20AMZN/Locked%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Locked%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Locked%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Locked (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Locked%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Locked%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Locked%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Locked%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Love Hurts (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Love%20Hurts%20%282025%29%201080p%20%5BDual%20Audio%5D/Love%20Hurts%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Love%20Hurts%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Love%20Hurts%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Love Hurts (2025)</title>
@@ -187,16 +385,76 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Love%20Hurts%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>M3GAN 2.0 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20%5BDual%20Audio%5D/M3GAN%202.0%20%282025%29%20UNRATED%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>M3GAN 2.0 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20AMZN/M3GAN%202.0%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>M3GAN 2.0 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/M3GAN%202.0%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/M3GAN%202.0%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Materialists (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Materialists%20%282025%29%201080p%20AMZN/Materialists%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Materialists%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Materialists%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Materialists (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Materialists%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Materialists%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Materialists%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Materialists%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mickey 17 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mickey%2017%20%282025%29%201080p/Mickey%2017%20%282025%29%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%207.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mickey%2017%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mickey%2017%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Mickey 17 (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mickey%2017%20%282025%29%201080p%20iT/Mickey%2017%20%282025%29%201080p%20iT-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mickey%2017%20%282025%29%201080p%20iT/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mickey%2017%20%282025%29%201080p%20iT/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Mission-Impossible - The Final Reckoning (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mission-Impossible%20-%20The%20Final%20Reckoning%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Mission%20Impossible%20The%20Final%20Reckoning%20%282025%29%20IMAX%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mission-Impossible%20-%20The%20Final%20Reckoning%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Mission-Impossible%20-%20The%20Final%20Reckoning%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Neighborhood Watch (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Neighborhood%20Watch%20%282025%29%201080p%20%5BDual%20Audio%5D/Neighborhood%20Watch%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Neighborhood%20Watch%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Neighborhood%20Watch%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Neighborhood Watch (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Neighborhood%20Watch%20%282025%29%201080p%20AMZN/Neighborhood%20Watch%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Neighborhood%20Watch%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Neighborhood%20Watch%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Nobody 2 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Nobody%202%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Nobody%202%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Nobody%202%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Nobody%202%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Novocaine (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Novocaine%20%282025%29%201080p%20%5BDual%20Audio%5D/Novocaine%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Novocaine%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Novocaine%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Novocaine (2025)</title>
@@ -211,10 +469,34 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Peter%20Pan%27s%20Neverland%20Nightmare%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Play Dirty (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Play%20Dirty%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Play%20Dirty%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Play%20Dirty%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Play%20Dirty%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Red Sonja (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Red%20Sonja%20%282025%29%201080p%20AMZN/Red%20Sonja%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Red%20Sonja%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Red%20Sonja%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Sinners (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Sinners%20%282025%29%201080p/Sinners%20%282025%29%20IMAX%201080p%20BluRay%20x265%20HEVC%2010bit%20AAC%207.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Sinners%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Sinners%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Sinners (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Sinners%20%282025%29%201080p%20iT/Sinners%20%282025%29%20IMAX%201080p%20iT-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Sinners%20%282025%29%201080p%20iT/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Sinners%20%282025%29%201080p%20iT/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Snow White (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Snow%20White%20%282025%29%201080p%20%5BDual%20Audio%5D/Snow%20White%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Snow%20White%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Snow%20White%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Snow White (2025)</title>
@@ -233,6 +515,12 @@
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Star%20Trek-Section%2031%20%282025%29%201080p%20AMZN/Star%20Trek%20Section%2031%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Star%20Trek-Section%2031%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Star%20Trek-Section%2031%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Superman (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/Superman%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Superman%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>The Accountant 2 (2025)</title>
@@ -265,6 +553,12 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Electric%20State%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>The Fantastic Four-First Steps (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Fantastic%20Four-First%20Steps%20%282025%29%201080p%20AMZN/The%20Fantastic%20Four%20First%20Steps%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Fantastic%20Four-First%20Steps%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Fantastic%20Four-First%20Steps%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>The Gorge (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Gorge%20%282025%29%201080p%20ATVP/The%20Gorge%20%282025%29%201080p%20ATVP-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Gorge%20%282025%29%201080p%20ATVP/a_AL_.jpg</thumbnail>
@@ -272,9 +566,27 @@
   </movie>
   <movie>
     <title>The Legend of Ochi (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Legend%20of%20Ochi%20%282025%29%201080p%20%5BDual%20Audio%5D/The%20Legend%20of%20Ochi%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Legend%20of%20Ochi%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Legend%20of%20Ochi%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Legend of Ochi (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Legend%20of%20Ochi%20%282025%29%201080p%20AMZN/The%20Legend%20of%20Ochi%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Legend%20of%20Ochi%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Legend%20of%20Ochi%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Lost Bus (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Lost%20Bus%20%282025%29%201080p%20ATVP/The%20Lost%20Bus%20%282025%29%201080p%20ATVP-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Lost%20Bus%20%282025%29%201080p%20ATVP/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Lost%20Bus%20%282025%29%201080p%20ATVP/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Monkey (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Monkey%20%282025%29%201080p%20%5BDual%20Audio%5D/The%20Monkey%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Monkey%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Monkey%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>The Monkey (2025)</title>
@@ -289,10 +601,82 @@
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Monkey%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>The Naked Gun (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Naked%20Gun%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/The%20Naked%20Gun%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Naked%20Gun%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Naked%20Gun%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Old Guard 2 (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Old%20Guard%202%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/The%20Old%20Guard%202%20%282025%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Old%20Guard%202%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Old%20Guard%202%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Phoenician Scheme (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Phoenician%20Scheme%20%282025%29%201080p%20%5BDual%20Audio%5D/The%20Phoenician%20Scheme%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Phoenician%20Scheme%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Phoenician%20Scheme%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Phoenician Scheme (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Phoenician%20Scheme%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/The%20Phoenician%20Scheme%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-KmHD.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Phoenician%20Scheme%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Phoenician%20Scheme%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Ritual (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Ritual%20%282025%29%201080p%20%5BDual%20Audio%5D/The%20Ritual%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Ritual%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Ritual%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Surrender (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Surrender%20%282025%29%201080p%20AMZN/The%20Surrender%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20ESub-RMT.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Surrender%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Surrender%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Thursday Murder Club (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Thursday%20Murder%20Club%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/The%20Thursday%20Murder%20Club%20%282025%29%201080p%20NF-WEB%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-MsMod.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Thursday%20Murder%20Club%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Thursday%20Murder%20Club%20%282025%29%201080p%20NF%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Woman in the Yard (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20%5BDual%20Audio%5D/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>The Woman in the Yard (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20AMZN/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/The%20Woman%20in%20the%20Yard%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Thunderbolts★ (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Thunderbolts%E2%98%85%20%282025%29%201080p%20%5BDual%20Audio%5D/Thunderbolts%20%282025%29%201080p%20BluRay%20x265%20HEVC%20MSubs%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Thunderbolts%E2%98%85%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Thunderbolts%E2%98%85%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Thunderbolts★ (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Thunderbolts%E2%98%85%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/Thunderbolts.A.K.A.The.New.Avengers.2025.1080p.10bit.WEBRip.6CH.x265.HEVC-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Thunderbolts%E2%98%85%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Thunderbolts%E2%98%85%20%282025%29%201080p%20AMZN%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Together (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Together%20%282025%29%201080p%20AMZN/Together%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Together%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Together%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Until Dawn (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Until%20Dawn%20%282025%29%201080p%20%5BDual%20Audio%5D/Until%20Dawn%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Until%20Dawn%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Until%20Dawn%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Until Dawn (2025)</title>
@@ -302,9 +686,21 @@
   </movie>
   <movie>
     <title>Warfare (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Warfare%20%282025%29%201080p%20%5BDual%20Audio%5D/Warfare%20%282025%29%201080p%20BluRay%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%202.0%2BEnglish%205.1%5D%20-mkvC.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Warfare%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Warfare%20%282025%29%201080p%20%5BDual%20Audio%5D/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Warfare (2025)</title>
     <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Warfare%20%282025%29%201080p%20AMZN/Warfare%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
     <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Warfare%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
     <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Warfare%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Weapons (2025)</title>
+    <link>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Weapons%20%282025%29%201080p%20AMZN/Weapons%20%282025%29%201080p%20AMZN-WEB%20x265%20HEVC%2010bit%20AAC%205.1%20MSubs-PSA.mkv</link>
+    <thumbnail>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Weapons%20%282025%29%201080p%20AMZN/a_AL_.jpg</thumbnail>
+    <fanart>http://10.1.1.1/data/English%20Movies%20%281080p%29/%282025%29%201080p/Weapons%20%282025%29%201080p%20AMZN/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Wolf Man (2025)</title>
