@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <movies>
   <movie>
+    <title>120 Bahadur</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/120%20Bahadur%20%282025%29%201080p%20HDTC%20V2/120%20Bahadur%20%282025%29%20Hindi%201080p%20HDTC%20V2%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/120%20Bahadur%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/120%20Bahadur%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Aachari Baa</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aachari%20Baa%20%282025%29%20720p/Aachari%20Baa%20%282025%29%20Hindi%20720p%20HS%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aachari%20Baa%20%282025%29%20720p/a_AL_.jpg</thumbnail>
@@ -8,9 +14,9 @@
   </movie>
   <movie>
     <title>Aankhon Ki Gustaakhiyan</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p%20HDTC/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%20Hindi%201080p%20HDTC%20x264%20AAC%20-%20mkvCinemas.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p%20HDTC/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p%20HDTC/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%20Hindi%201080p%20Zee5%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aankhon%20Ki%20Gustaakhiyan%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Aap Jaisa Koi</title>
@@ -19,16 +25,40 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Aap%20Jaisa%20Koi%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Ajey-The Untold Story of a Yogi</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ajey-The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20720p%20HDTC/Ajey%20The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20Hindi%20720p%20HDTC%20x264%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ajey-The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ajey-The%20Untold%20Story%20of%20a%20Yogi%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Akaal-The Unconquered</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/Akaal%20The%20Unconquered%20%282025%29%20Hindi%20720p%20HDRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akaal-The%20Unconquered%20%282025%29%20720p%20HDRip/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Akshardham-Operation Vajra Shakti</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akshardham-Operation%20Vajra%20Shakti%20%282025%29%201080p/Akshardham%20Operation%20Vajra%20Shakti%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD2.0%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akshardham-Operation%20Vajra%20Shakti%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Akshardham-Operation%20Vajra%20Shakti%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Andaaz 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Andaaz%202%20%282025%29%20720p%20HDRip/Andaaz%202%20%282025%29%20Hindi%20720p%20HDRip%20x264%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Andaaz%202%20%282025%29%20720p%20HDRip/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Andaaz%202%20%282025%29%20720p%20HDRip/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Azaad</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p/Azaad%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Azaad%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Baaghi 4</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/Baaghi%204%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baaghi%204%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Badass Ravikumar</title>
@@ -38,15 +68,27 @@
   </movie>
   <movie>
     <title>Baida</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/Baida%20%282025%29%20Hindi%20080p%20PRE-WEB-DL%20x264%20AAC%20-%20HDHub4u.mkv</link>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/Baida%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baida%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Baramulla</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baramulla%20%282025%29%20720p/Baramulla%20%282025%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baramulla%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Baramulla%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Be Happy</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/Be%20Happy%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20MSubs%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Be%20Happy%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Bhagwat Chapter One-Raakshas</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Bhagwat%20Chapter%20One-Raakshas%20%282025%29%201080p/Bhagwat%20Chapter%20One%20Raakshas%20%282025%29%20Hindi%20720p%20Zee5%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail/>
+    <fanart/>
   </movie>
   <movie>
     <title>Bhool Chuk Maaf</title>
@@ -67,6 +109,12 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Chhorii%202%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Controll</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Controll%20%282025%29%20720p%20HDTC/Controll%20%282025%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20CineVood.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Controll%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Controll%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Costao</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Costao%20%282025%29%20720p/Costao%20%282025%29%20Hindi%20720p%20Zee5%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Costao%20%282025%29%20720p/a_AL_.jpg</thumbnail>
@@ -77,6 +125,12 @@
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Crazxy%20%282025%29%201080p/Crazxy%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Crazxy%20%282025%29%201080p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Crazxy%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>De De Pyaar De 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/De%20De%20Pyaar%20De%202%20%282025%29%201080p%20HDTC/De%20De%20Pyaar%20De%202%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/De%20De%20Pyaar%20De%202%20%282025%29%201080p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/De%20De%20Pyaar%20De%202%20%282025%29%201080p%20HDTC/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Detective Sherdil</title>
@@ -91,16 +145,40 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Deva%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Dhadak 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhadak%202%20%282025%29%201080p/Dhadak%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhadak%202%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhadak%202%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Dhoom Dhaam</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhoom%20Dhaam%20%282025%29%20720p/Dhoom%20Dhaam%20%282025%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20x264%20MSubs%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhoom%20Dhaam%20%282025%29%20720p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhoom%20Dhaam%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Dhurandhar</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/Dhurandhar%20%282025%29%20Hindi%201080p%20HDTC%20x264%20AAC%20-%20CineVood.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhurandhar%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Dil Dosti Aur Dogs</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20720p/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20Hindi%20720p%20HS%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20720p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dil%20Dosti%20Aur%20Dogs%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ek Chatur Naar</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ek%20Chatur%20Naar%20%282025%29%201080p/Ek%20Chatur%20Naar%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ek%20Chatur%20Naar%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ek%20Chatur%20Naar%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ek Deewane Ki Deewaniyat</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20720p%20HDTC/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ek%20Deewane%20Ki%20Deewaniyat%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Emergency</title>
@@ -121,10 +199,52 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ground%20Zero%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Guru Nanak Jahaz</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Guru%20Nanak%20Jahaz%20%282025%29%201080p/Guru%20Nanak%20Jahaz%20%282025%29%20Punjabi%201080p%20CP%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Guru%20Nanak%20Jahaz%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Guru%20Nanak%20Jahaz%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Gustaakh Ishq</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Gustaakh%20Ishq%20%282025%29%20720p%20HDTC/Gustaakh%20Ishq%20%282025%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20CineVood.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Gustaakh%20Ishq%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Gustaakh%20Ishq%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Gyanvapi Files-A Tailor's Murder Story</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Gyanvapi%20Files-A%20Tailor%27s%20Murder%20Story%20%282025%29%20720p%20HDRip/Udaipur.Files.2025.720p.Hindi.DS4K.WEB-DL.5.1.x264-HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Gyanvapi%20Files-A%20Tailor%27s%20Murder%20Story%20%282025%29%20720p%20HDRip/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Gyanvapi%20Files-A%20Tailor%27s%20Murder%20Story%20%282025%29%20720p%20HDRip/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Haq</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Haq%20%282025%29%201080p%20HDTC/Haq%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Haq%20%282025%29%201080p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Haq%20%282025%29%201080p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Heer Express</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Heer%20Express%20%282025%29%20720p%20HDTC%20V2/Heer%20Express%20%282025%29%20Hindi%20720p%20HDTC%20V2%20x264%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Heer%20Express%20%282025%29%20720p%20HDTC%20V2/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Heer%20Express%20%282025%29%20720p%20HDTC%20V2/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Homebound</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Homebound%20%282025%29%201080p/Homebound%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Homebound%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Homebound%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Housefull 5 A–B</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p/Housefull%205B%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Housefull%205%20A%E2%80%93B%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Inspector Zende</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Inspector%20Zende%20%282025%29%201080p/Inspector%20Zende%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Inspector%20Zende%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Inspector%20Zende%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Interrogation</title>
@@ -143,6 +263,12 @@
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Jewel%20Thief-The%20Heist%20Begins%20%282025%29%201080p/Jewel%20Thief%20The%20Heist%20Begins%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Jewel%20Thief-The%20Heist%20Begins%20%282025%29%201080p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Jewel%20Thief-The%20Heist%20Begins%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Jolly LLB 3</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Jolly%20LLB%203%20%282025%29%201080p/Jolly%20LLB%203%20%282025%29%20Hindi%201080p%20DS4K%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Jolly%20LLB%203%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Jolly%20LLB%203%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Kaafir</title>
@@ -181,10 +307,22 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Kesari%20Veer%20%282025%29%201080p%20HDRip/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Kis Kisko Pyaar Karoon 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Kis%20Kisko%20Pyaar%20Karoon%202%20%282025%29%201080p%20HDTC/Kis%20Kisko%20Pyaar%20Karoon%202%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Kis%20Kisko%20Pyaar%20Karoon%202%20%282025%29%201080p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Kis%20Kisko%20Pyaar%20Karoon%202%20%282025%29%201080p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Logout</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Logout%20%282025%29%20720p/Logout%20%282025%29%20Hindi%20720p%20Zee5%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Logout%20%282025%29%20720p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Logout%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Love in Vietnam</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Love%20in%20Vietnam%20%282025%29%20720p%20HDTC/Love%20in%20Vietnam%20%282025%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20CineVood.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Love%20in%20Vietnam%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Love%20in%20Vietnam%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Loveyapa</title>
@@ -194,15 +332,15 @@
   </movie>
   <movie>
     <title>Maa</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maa%20%282025%29%201080p%20HDRip/MAA.2025.1080p.HEVC.Hindi.DS4K.WEB-DL.5.1.x265-HDHub4u.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maa%20%282025%29%201080p%20HDRip/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maa%20%282025%29%201080p%20HDRip/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maa%20%282025%29%201080p/Maa%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maa%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maa%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Maalik</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maalik%20%282025%29%201080p%20HDTS/Maalik%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maalik%20%282025%29%201080p%20HDTS/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maalik%20%282025%29%201080p%20HDTS/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maalik%20%282025%29%201080p/Maalik%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maalik%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Maalik%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Majhail</title>
@@ -211,10 +349,28 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Majhail%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Mannu Kya Karegga</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Mannu%20Kya%20Karegga%20%282025%29%201080p%20HDTC%20V2/Mannu%20Kya%20Karegga%20%282025%29%20Hindi%201080p%20HDTC%20V2%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Mannu%20Kya%20Karegga%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Mannu%20Kya%20Karegga%20%282025%29%201080p%20HDTC%20V2/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Mastiii 4</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Mastiii%204%20%282025%29%20720p%20HDTC%20V2/Mastiii%204%20%282025%29%20Hindi%20720p%20HDTC%20V2%20x264%20AAC%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Mastiii%204%20%282025%29%20720p%20HDTC%20V2/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Mastiii%204%20%282025%29%20720p%20HDTC%20V2/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Match Fixing</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/Match%20Fixing%20%282025%29%20Hindi%20720p%20HDTS%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Match%20Fixing%20%282025%29%20720p%20HDTS/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>McGuffin</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/McGuffin%20%282025%29%20720p/McGuffin%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/McGuffin%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/McGuffin%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Mere Husband Ki Biwi</title>
@@ -224,9 +380,15 @@
   </movie>
   <movie>
     <title>Metro in Dino</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Metro%20in%20Dino%20%282025%29%201080p%20HDTC/Metro%20In%20Dino%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20HDHub4u.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Metro%20in%20Dino%20%282025%29%201080p%20HDTC/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Metro%20in%20Dino%20%282025%29%201080p%20HDTC/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Metro%20in%20Dino%20%282025%29%201080p/Metro%20in%20Dino%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Metro%20in%20Dino%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Metro%20in%20Dino%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Murderbaad</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Murderbaad%20%282025%29%20720p/Murderbaad%20%282025%29%20Hindi%20720p%20HS%20WEBRip%20x264%20AAC%202.0%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Murderbaad%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Murderbaad%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Nadaaniyan</title>
@@ -236,9 +398,27 @@
   </movie>
   <movie>
     <title>Nikita Roy</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nikita%20Roy%20%282025%29%201080p%20Pre-HDRip/Nikita%20Roy%20%282025%29%20Hindi%201080p%20PRE-HD%20x264%20AAC%20-%20mkvCinemas.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nikita%20Roy%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nikita%20Roy%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nikita%20Roy%20%282025%29%201080p%20HDRip/Nikita.Roy.2025.1080p.Hindi.DS4K.WEB-DL.5.1.ESub.x264-HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nikita%20Roy%20%282025%29%201080p%20HDRip/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nikita%20Roy%20%282025%29%201080p%20HDRip/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Nishaanchi</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nishaanchi%20%282025%29%201080p/Nishaanchi%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nishaanchi%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nishaanchi%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Nishaanchi 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nishaanchi%202%20%282025%29%201080p/Nishaanchi%202%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nishaanchi%202%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Nishaanchi%202%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Param Sundari</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Param%20Sundari%20%282025%29%201080p/Param%20Sundari%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Param%20Sundari%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Param%20Sundari%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Phule</title>
@@ -253,10 +433,28 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Pintu%20Ki%20Pappi%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Raat Akeli Hai-The Bansal Murders</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Raat%20Akeli%20Hai-The%20Bansal%20Murders%20%282025%29%201080p/Raat%20Akeli%20Hai%20The%20Bansal%20Murders%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Raat%20Akeli%20Hai-The%20Bansal%20Murders%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Raat%20Akeli%20Hai-The%20Bansal%20Murders%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Raid 2</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Raid%202%20%282025%29%201080p/Raid%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20MSubs%20-%20mkvCinemas.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Raid%202%20%282025%29%201080p/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Raid%202%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Rangbaaz-The Bihar Chapter</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Rangbaaz-The%20Bihar%20Chapter%20%282025%29%20720p/Rangbaaz%20The%20Bihar%20Chapter%20%282025%29%20Hindi%20720p%20Zee5%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Rangbaaz-The%20Bihar%20Chapter%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Rangbaaz-The%20Bihar%20Chapter%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Riwaj</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Riwaj%20%282025%29%20720p/Riwaj%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%202.0%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Riwaj%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Riwaj%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Romeo S3</title>
@@ -265,22 +463,28 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Romeo%20S3%20%282025%29%20720p/a_AL_.jpg</fanart>
   </movie>
   <movie>
-    <title>Romeo S3</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Romeo%20S3%20%282025%29%20720p%20HDTC/Romeo%20S3%20%282025%29%20Hindi%20720p%20HDTC%20x264%20ESub%20-%20mkvCinemas.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Romeo%20S3%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Romeo%20S3%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
+    <title>Saiyaara</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p/Saiyaara%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
-    <title>Saiyaara</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p%20Pre-HDRip/Saiyaara%20%282025%29%20Hindi%201080p%20PRE-HD%20x264%20AAC%20-%20mkvCinemas.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</fanart>
+    <title>Sant Tukaram</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sant%20Tukaram%20%282025%29%20720p%20HDTC/Sant%20Tukaram%20%282025%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sant%20Tukaram%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sant%20Tukaram%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Sardaar Ji 3</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sardaar%20Ji%203%20%282025%29%20720p%20HDCAM/Sardaar%20Ji%203%20%282025%29%20Punjabi%20720p%20HDCAM%20x264%20ESub%20-%20HDHub4u.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sardaar%20Ji%203%20%282025%29%20720p%20HDCAM/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sardaar%20Ji%203%20%282025%29%20720p%20HDCAM/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Sarzameen</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sarzameen%20%282025%29%201080p/Sarzameen%20%282025%29%20Hindi%201080p%20JHS%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sarzameen%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sarzameen%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Sikandar</title>
@@ -290,9 +494,9 @@
   </movie>
   <movie>
     <title>Sitaare Zameen Par</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p%20HDRip/Sitaare.Zameen.Par.2025.1080p.HEVC.DS4K.Hindi.WEB-DL.5.1.x265-HDHub4u.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p%20HDRip/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p%20HDRip/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p/Sitaare%20Zameen%20Par%20%282025%29%20Hindi%201080p%20GPlay%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sitaare%20Zameen%20Par%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>Six Each</title>
@@ -307,6 +511,24 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sky%20Force%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>Son of Sardaar 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Son%20of%20Sardaar%202%20%282025%29%201080p/Son%20of%20Sardaar%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Son%20of%20Sardaar%202%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Son%20of%20Sardaar%202%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Songs of Paradise</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Songs%20of%20Paradise%20%282025%29%20720p/Songs%20of%20Paradise%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Songs%20of%20Paradise%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Songs%20of%20Paradise%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Sunny Sanskari Ki Tulsi Kumari</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari%20%282025%29%201080p/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sunny%20Sanskari%20Ki%20Tulsi%20Kumari%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Sweet Dreams</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sweet%20Dreams%20%282025%29%20720p/Sweet%20Dreams%20%282025%29%20Hindi%20720p%20DSNP%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20HDHub4u.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Sweet%20Dreams%20%282025%29%20720p/a_AL_.jpg</thumbnail>
@@ -314,9 +536,27 @@
   </movie>
   <movie>
     <title>Tanvi-The Great</title>
-    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tanvi-The%20Great%20%282025%29%201080p%20Pre-HDRip/Tanvi%20the%20Great%20%282025%29%20Hindi%201080p%20PRE-HD%20x264%20AAC%20-%20mkvCinemas.mkv</link>
-    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tanvi-The%20Great%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</thumbnail>
-    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tanvi-The%20Great%20%282025%29%201080p%20Pre-HDRip/a_AL_.jpg</fanart>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tanvi-The%20Great%20%282025%29%201080p%20HDRip/Tanvi-The.Great.2025.1080p.HEVC.Hindi.DS4K.WEB-DL.5.1.HC-ESub.x265-HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tanvi-The%20Great%20%282025%29%201080p%20HDRip/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tanvi-The%20Great%20%282025%29%201080p%20HDRip/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Tehran</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tehran%20%282025%29%201080p/Tehran%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tehran%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tehran%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Thamma</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Thamma%20%282025%29%201080p/Thamma%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Thamma%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Thamma%20%282025%29%201080p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Bengal Files</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Bengal%20Files%20%282025%29%201080p/The%20Bengal%20Files%20%282025%29%20Hindi%20UNCUT%201080p%20Zee5%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Bengal%20Files%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Bengal%20Files%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
     <title>The Bhootnii</title>
@@ -331,9 +571,39 @@
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Diplomat%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
   <movie>
+    <title>The Great Shamsuddin Family</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Great%20Shamsuddin%20Family%20%282025%29%20720p/The%20Great%20Shamsuddin%20Family%20%282025%29%20Hindi%20720p%20JHS%20DS4K%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Great%20Shamsuddin%20Family%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Great%20Shamsuddin%20Family%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>The Taj Story</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Taj%20Story%20%282025%29%20720p%20HDTC/The%20Taj%20Story%20%282025%29%20Hindi%20720p%20HDTC%20x264%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Taj%20Story%20%282025%29%20720p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Taj%20Story%20%282025%29%20720p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
     <title>Tumko Meri Kasam</title>
     <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tumko%20Meri%20Kasam%20%282025%29%201080p%20HDTS/Tumko%20Meri%20Kasam%20%282025%29%20Hindi%201080p%20HDTS%201080p%20x264%20AAC%20-%20CineVood.mkv</link>
     <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tumko%20Meri%20Kasam%20%282025%29%201080p%20HDTS/a_AL_.jpg</thumbnail>
     <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tumko%20Meri%20Kasam%20%282025%29%201080p%20HDTS/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Ufff Yeh Siyapaa</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ufff%20Yeh%20Siyapaa%20%282025%29%20720p/Ufff%20Yeh%20Siyapaa%20%282025%29%20Hindi%20720p%20NF%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ufff%20Yeh%20Siyapaa%20%282025%29%20720p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ufff%20Yeh%20Siyapaa%20%282025%29%20720p/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>Vijeyta</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Vijeyta%20%282025%29%201080p%20HDTC/Vijeyta%20%282025%29%20Hindi%201080p%20HDTC%20x265%20HEVC%2010bit%20AAC%20-%20CineVood.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Vijeyta%20%282025%29%201080p%20HDTC/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Vijeyta%20%282025%29%201080p%20HDTC/a_AL_.jpg</fanart>
+  </movie>
+  <movie>
+    <title>War 2</title>
+    <link>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/War%202%20%282025%29%201080p/War%202%20%282025%29%20Hindi%201080p%20DS4K%20NF%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv</link>
+    <thumbnail>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/War%202%20%282025%29%201080p/a_AL_.jpg</thumbnail>
+    <fanart>http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/War%202%20%282025%29%201080p/a_AL_.jpg</fanart>
   </movie>
 </movies>
